@@ -1,8 +1,8 @@
-opencv-python
-ultralytics
-streamlit  
-pandas
-numpy
-scipy
-easyocr
-filterpy
+streamlit==1.33.0
+ultralytics==8.1.25
+opencv-python-headless==4.7.0.72
+pandas==2.2.2
+numpy==1.24.4
+scipy==1.10.1
+easyocr==1.6.1
+filterpy==1.4.5
